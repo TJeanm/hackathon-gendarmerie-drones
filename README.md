@@ -247,8 +247,10 @@ Detailed technical documentation is available in [`docs/`](docs/):
 
 ## Context
 
-This project was developed during a hackathon focused on **multi-drone mission planning and coordination for the French Gendarmerie**.
+Division Drone was developed by the **UPSSITECH team** during a hackathon focused on multi-drone mission planning and coordination for the French Gendarmerie.
+
+The project was awarded **1st Place**, ahead of teams from **INSA, ENSEEIHT and ENAC**.
 
 The goal was to build an explainable decision-support tool capable of turning an operational area and a set of available resources into a proposed deployment, while allowing the plan to adapt when operational conditions change.
 
-**Division Drone — Gendarmerie Hackathon Project**
+**Division Drone — 1st Place, French Gendarmerie Hackathon**
