@@ -1,6 +1,9 @@
 # Division Drone — Gendarmerie
 
-Web application developed during the **Gendarmerie Hackathon** to support the planning and simulated coordination of multi-drone operations.
+> 🏆 **1st Place — French Gendarmerie Hackathon**  
+> Winning project developed by the **UPSSITECH team**, competing against teams from **INSA, ENSEEIHT and ENAC**.
+
+Web application for planning and simulated coordination of multi-drone operations, developed around an operational use case proposed by the French Gendarmerie.
 
 ## Live Demo
 
